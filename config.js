@@ -44,7 +44,7 @@ const config = {
       dialect: "postgres",
       host: "localhost",
       port: 5432,
-      database: "users",
+      database: "products",
       username: "postgres",
       password: "root",
       //Extra configs
